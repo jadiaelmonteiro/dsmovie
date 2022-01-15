@@ -1,6 +1,8 @@
+import Pagination from "components/Pagination";
+
 function Listing() {
     return (
-        <h1>Página de formulário</h1>
+        <Pagination/>
     );
 }
     
