@@ -1,4 +1,6 @@
 import './components/Navbar/styles.css';
+import './pages/Form/styles.css';
+
 import {
   BrowserRouter,
   Routes,
